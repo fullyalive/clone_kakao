@@ -19,6 +19,10 @@
   margin: 0 10px;
 }
 
+.top-header .header__column {
+  width: 33%;
+}
+
 .top-header .header__column:last-child {
   text-align: right;
 }
