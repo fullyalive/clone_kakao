@@ -77,7 +77,7 @@
   color: #b4b4b4;
 }
 
-.plus-friends__itmes {
+.plus-friends__items {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -88,7 +88,7 @@
   margin-bottom: 30px;
 }
 
-.plus-friends__itme i {
+.plus-friends__item i {
   margin-right: 20px;
 }
 
