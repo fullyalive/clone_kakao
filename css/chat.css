@@ -35,7 +35,7 @@
   justify-content: flex-end;
 }
 
-.chat__message-from-me img {
+.chat__message-to-me img {
   align-self: flex-start;
 }
 .chat__message-time {
